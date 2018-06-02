@@ -55,5 +55,8 @@
     "lodash": "^4.17.10"
   },
   "dependencies": {
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
